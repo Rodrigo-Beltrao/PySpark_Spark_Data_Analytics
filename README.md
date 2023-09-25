@@ -5,7 +5,7 @@ Neste projeto foi feito a análise dos mesmos dados do meu projeto Hadoop (https
     <img src="https://www.softwebsolutions.com/wp-content/uploads/2016/06/Spark-Hadoop.jpg" alt="Spark">
 </p>
 
-## Spark no cloud GCP
+## Spark na cloud GCP
 Conforme pode ser observado na imagem abaixo, o spark está devidamente instalado no cluster, porém eu optei em usar o ambiente google colab para efetuar as análises com pyspark.
 
 <p align="center">
