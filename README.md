@@ -20,7 +20,7 @@ Para cada consulta em SQL, foi realizado uma consulta utilizando o PySpark utili
 </p>
 
 ## Análises exploratórias
-oijwriojzwirjojrwj
+Foram realizadas duas consultas além das realizadas no projeto Hadoop. Essas novas consultas permitiram uma análise exploratória mais detalhada da quantidade de cartões de crédito fraudulentos. Dos 19.936 cartões, apenas 27 são fraudulentos. De acordo com os gráficos abaixo, o número de cartões de crédito fraudulentos representam 0,1% do total de cartões.
 
 <p align="center">
     <img src="https://i.imgur.com/4IyVZKz.png" alt="Spark2">
