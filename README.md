@@ -1,5 +1,5 @@
 # PySpark_Spark_Data_Analytics
-Neste projeto foi feito a análise dos mesmos dados do meu projeto Hadoop (https://github.com/Rodrigo-Beltrao/Hadoop_Hive_GCP) que foi realizado anteriormente com SQL no Hive, agora sendo feito com PySpark.
+Neste projeto, foi feita a análise dos mesmos dados do meu projeto Hadoop (https://github.com/Rodrigo-Beltrao/Hadoop_Hive_GCP) que foi realizado anteriormente com SQL no Hive e agora está sendo feita com PySpark.
 
 <p align="center">
     <img src="https://www.softwebsolutions.com/wp-content/uploads/2016/06/Spark-Hadoop.jpg" alt="Spark">
